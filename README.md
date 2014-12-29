@@ -2,9 +2,13 @@
 ========
 Dogecoin is a flash game I developed during freshman year of college. It was created in FlashDevelop.
 
-To play the game you can either run bin/index.html or run bin/Dogecoin.swf in a local flash player.
+To launch the game you can either:
+- run bin/index.html
+- run bin/Dogecoin.swf in a local flash player.
 
-Press the spacebar to launch, and use the arrow keys to move around.
+How to play
+========
+Press the spacebar to launch, and use the arrow keys to move around. Collect as many coins as you can!
 
 Screenshots
 ========
