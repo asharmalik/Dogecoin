@@ -1,4 +1,4 @@
-[Dogecoin]()
+Dogecoin
 ========
 Dogecoin is a flash game I developed during freshman year of college. It was created in FlashDevelop.
 
