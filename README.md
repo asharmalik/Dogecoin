@@ -8,7 +8,7 @@ How to Play
 
 Game Controls
 ========
-Press the spacebar to launch, and use the arrow keys to move around. Collect as many coins as you can!
+Press the spacebar to launch, and use the arrow keys to move around. Avoid the asteroids! Collect as many coins as you can!
 
 <h4>Powerups</h4>
 - Invincibility
