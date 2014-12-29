@@ -10,7 +10,7 @@ How to play
 ========
 Press the spacebar to launch, and use the arrow keys to move around. Collect as many coins as you can!
 
-Powerups
+<h2>Powerups</h2>
 - Invincibility
 - Coin magnet
 - 2X Coins
