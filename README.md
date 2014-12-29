@@ -1,9 +1,10 @@
-Dogecoin
+[Dogecoin]()
 ========
+Dogecoin is a flash game I developed during freshman year of college. It was created in FlashDevelop.
 
-This game is a project I spent some time on during my first year of college. It is a flash game I created in FlashDevelop.
+To play the game you can either run bin/index.html or run bin/Dogecoin.swf in a local flash player.
 
-Press the spacebar to launch and use arrow keys to move.
+Press the spacebar to launch, and use the arrow keys to move around.
 
 Screenshots
 ========
